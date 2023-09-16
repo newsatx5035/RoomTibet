@@ -265,7 +265,7 @@ h4 {
 
 /* Blocks */
 .hero {
-  background-image: url("./../../../img/hero/01.jpg");
+  background-image: url("./../img/hero/01.jpg");
   background-size: cover;
   padding: 16px 0 82px;
   margin-bottom: 100px;
